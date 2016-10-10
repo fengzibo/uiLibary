@@ -204,7 +204,13 @@ CSS样式新建或修改尽量遵循以下原则。
 *   CSS Sprite是一种将数个图片合成为一张大图的技术（既可以是背景图也可以是前景图），然后通过偏移来进行图像位置选取；
 *   CSS Sprite可以减少http请求；
 
+##LESS
 
+详情请见[less](http://www.bootcss.com/p/lesscss/)
+
+##前端流程工具
+
+详情请见[weflow](https://github.com/weixin/tmt-workflow)
 
 ##最后说两句
 
