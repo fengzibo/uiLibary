@@ -86,7 +86,8 @@ head中添加信息。
             <li>asdasdsdasd</li>
             <li>asdasdsdasd</li>
         </ul>        
-   应该
+   
+应该
 
     <div>
         <h3>xx列表</h3>
@@ -97,7 +98,7 @@ head中添加信息。
     </div>
     
 按模块添加注释
-*    在每个模块开始和结束的地方添加注释
+*    在每个模块开始和结束的地方添加注释。
 
     <!-- 新闻列表模块 -->
     <div class="m-news g-mod"
